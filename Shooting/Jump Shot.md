@@ -42,18 +42,12 @@ Many beginners have the problem that their shot is separated in two parts, getti
 
 ### Next topics
 - Pull up jump shot
-- 
+- Free Throw
 
 ### Related topics
-- Underhand Layup
-- Overhand Layup
-- Running Layup
-- Reverse Layup
-- Finger roll Layup
-- Driving reverse Layup
-- Putback layup
+
 ### Links
-- Mikan drill
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1Njc0OTQwM119
+eyJoaXN0b3J5IjpbNzA3MDI3MjMxLC00NTY3NDk0MDNdfQ==
 -->
