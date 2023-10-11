@@ -1,10 +1,11 @@
+
 # Chest pass
-The chest pass is a type of pass which motion starts from the chest. Chest passes are the probably the most accurate and most powerful types of passes in basketball. 
+The chest pass is a type of pass in which motion starts from the chest. Chest passes are probably the most accurate and most powerful types of passes in basketball. 
 
 While many beginners exclusively use this type of pass (especially in lower competition levels), the chest pass isn't the best pass for all cases.
 
 ### How to do a chest pass?
-We are going to group normal layups in two broad categories, those which are done:
+We are going to group normal layups into two broad categories, those which are done:
 
  - From a standing position (using no dribbles)
  - From a dribble
@@ -28,5 +29,5 @@ If the ball is being thrown towards a player, try to aim so that the ball also l
 
 ### Links
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDgxMTcyMl19
+eyJoaXN0b3J5IjpbMjA3OTk4ODc1N119
 -->
