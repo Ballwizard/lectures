@@ -5,7 +5,7 @@ The King of the Hill is a dribbling drill in which multiple players compete to s
 ### How to do the King of the Hill drill
 The King of the Hill drill is done with a minimum of two people.
 
-First, an area needs to be selected for the scope of the drill, take the 
+First, an area needs to be selected for the scope of the drill, take the rectangular-shaped area underneath the basket for an example. Players stand inside and once the whistle is blown, they immideately
 
 ### Variants
 
@@ -24,5 +24,5 @@ The two on one no dribble variant is a variant where once a player has made the 
 ### Links
 - idk
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjg5ODYzNzZdfQ==
+eyJoaXN0b3J5IjpbLTQ1NTkwNjAyMV19
 -->
