@@ -18,10 +18,10 @@ If the ball is being thrown towards a player, try to aim so that the ball also l
 
 ### Next topics
 - Bounce pass
-- One-handed bounce 
+- One-handed bounce pass
 ### Related topics
 
 ### Links
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDYyMjE4MywtMTY1NzUwNjUwNV19
+eyJoaXN0b3J5IjpbMTA5MDY1MzM2OCwtMTY1NzUwNjUwNV19
 -->
