@@ -9,24 +9,14 @@ First, an area needs to be selected for the scope of the drill, take the rectang
 
 The objective of the drill is to knock out other players by grabbing, punching or throwing their ball out of the playarea. Once a players ball has exited out of the playarea, they are disqualified.
 
-If no action is happening and all of the players in the contention are
+If no action is happening and all of the players in the contention aren't doing anything, shrink the playarea and continue playing.
 
-### Variants
-
-- Criss-cross with a dribble
-
-The name speaks for itself, each player is permitted to do a dribble once they have the ball instead of just doing two steps.
-
-- Two on one criss-cross
-
-The two on one no dribble variant is a variant where once a player has made the layup, his duty is to sprint back and play defence versus the two players that didn't do the layup. This variant is often played with no dribbles or only one dribble per person which makes it harder for the two players to score.
-
-
+This continues up until one person is left in the area and they are crowned as the "King of the Hill".
 
 ### Related topics
-- Russian Criss-Cross
+- idk
 ### Links
 - idk
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3OTQ1ODksLTQ1NTkwNjAyMV19
+eyJoaXN0b3J5IjpbMjkzMjMzNDY5LC00NTU5MDYwMjFdfQ==
 -->
