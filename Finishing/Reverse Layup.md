@@ -5,11 +5,7 @@ A reverse layup is a form of layup where the player throws the ball from the opp
 
 ### How to do a reverse layup?
 
-The underhand layup requires gentleness and an understanding of ball physics. Unlike the regular overhand layup, the underhand layup requires much more precision, but with that precision comes (in most cases) better results. 
-
-The motion of the underhand layup starts with the ball in front of you, in a low position. You are holding it with only one hand on the bottom of the ball. Now, take a step with your right foot if you are on the right side of the basket and likewise on the left side. 
-
-Then take another step. Explode from your foot with the ball in front of you. Once you are close to the apex of your rise (while you're still rising), release the ball by flicking your wrist, and rolling the ball towards the basket. 
+The reverse layup starts with the player holding the ball on one side of the basket. Dribble then take a step, if you're sure that you can jump from that position and end up on the other side of the basket, then jump. If not, take another step and dribble until you are c
 
 
 ### When should you do an underhand layup?
@@ -29,5 +25,5 @@ While there aren't any specific drills to train making underhand layups, we sugg
 ### Links
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5Mjk2NjE2XX0=
+eyJoaXN0b3J5IjpbNDM3MjE2MDYzXX0=
 -->
