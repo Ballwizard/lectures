@@ -8,12 +8,14 @@ Start by placing two cones on either side of the court, about 15 feet away from 
 
 The player who receives the ball then takes a shot from the cone on their side of the court. After the shot is taken, the other player grabs the rebound and passes the ball back to the shooter. The shooter then takes a shot from the cone on the opposite side of the court.  This pattern continues, with each player taking turns shooting from each cone. 
 
-The goal of the drill is to make as many shots as possible in a set amount of time, such as one minute. You can also increase the difficulty by adding a defender to the drill, who can try to block shots or steal the ball. This drill is great for improving shooting accuracy, as well as practicing passing, rebounding, and teamwork. Have fun!
+The goal of the drill is to make as many shots as possible in a set amount of time, such as one minute. You can also increase the difficulty by adding a defender to the drill, who can try to block shots or steal the ball. This drill is great for improving shooting accuracy, as well as practicing passing, rebounding, and teamwork. 
 
 ### Variants
 
-- N-sprint - variant with n amount of players
-- With a defer
+- N-sprint
+variant with n amount of players
+- With a defender 
+include as many defenders to stop players from passing and shooting the ball
 
 
 
@@ -22,5 +24,5 @@ The goal of the drill is to make as many shots as possible in a set amount of ti
 ### Links
 - idk
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzOTEwNDc5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEwNDAxMjkwNTQsNzMwOTk4MTE2XX0=
 -->
