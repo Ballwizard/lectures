@@ -1,5 +1,5 @@
 
-# Underhand layup
+# Underhand Layup
 
 An underhand layup is a form of layup where the player raises the ball from a low point to a high point, spinning the ball by flicking it to the hoop. The underhand layup is an alternative to the overhand layup where instead of always having your ball above, it goes from under to above. 
 
@@ -29,5 +29,5 @@ While there aren't any specific drills to train making underhand layups, we sugg
 ### Links
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1OTgwMDEzLC0yMTQwNTU0NTQxXX0=
+eyJoaXN0b3J5IjpbLTM1ODE0MjE5NSwtMjE0MDU1NDU0MV19
 -->
