@@ -1,6 +1,4 @@
-# Criss-cross
-
-The criss-cross is a drill that teaches players coordination, spatial coordination, how to aim, and how time passes.
+# 
 
 ### How to do the criss-cross drill
 
@@ -27,5 +25,5 @@ The two-on-one no-dribble variant is a variant where once a player has made the 
 ### Links
 - idk
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjgwNzMwMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE5NjA5OTM2ODQsNzMwOTk4MTE2XX0=
 -->
