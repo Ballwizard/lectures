@@ -1,7 +1,7 @@
 
-# Underhand layup
+# Reverse Layup
 
-An underhand layup is a form of layup where the player raises the ball from a low point to a high point, spinning the ball by flicking it to the hoop. The underhand layup is an alternative to the overhand layup where instead of always having your ball above, it goes from under to above. 
+A reverse layup is a form of layup where the player throws the ball from the opposite side of the hoop. Imagine that you are attacking the basket on the right side, using a reverse  The underhand layup is an alternative to the overhand layup where instead of always having your ball above, it goes from under to above. 
 
 ### How to do a layup?
 
@@ -29,5 +29,5 @@ While there aren't any specific drills to train making underhand layups, we sugg
 ### Links
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1OTgwMDEzXX0=
+eyJoaXN0b3J5IjpbMTkzMzA4NDk0MV19
 -->
