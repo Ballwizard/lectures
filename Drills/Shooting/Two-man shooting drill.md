@@ -12,7 +12,8 @@ The goal of the drill is to make as many shots as possible in a set amount of ti
 
 ### Variants
 
-- N-sprint
+- N-sprint - variant with n amount of players
+- With a defer
 
 
 
@@ -21,5 +22,5 @@ The goal of the drill is to make as many shots as possible in a set amount of ti
 ### Links
 - idk
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzYwNzg2Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNDIzOTEwNDc5LDczMDk5ODExNl19
 -->
