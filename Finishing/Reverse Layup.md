@@ -16,7 +16,7 @@ The reverse layup easily catches defenders off guard, they usually expect you to
 
 ### Drills to train to reverse layups
 
-While there aren't any specific drills to train making underhand layups, we suggest just making as many attempts as you can. Start near the basket, then start going further away, utilizing more dribbles, trying to go as fast as possible and jump
+While there aren't any specific drills to train making underhand layups, we suggest just making as many attempts as you can. Start near the basket, then start going further away, utilizing more dribbles, trying to go as fast as possible and jump as high as possible.
 
 ### Next topics
 
@@ -27,5 +27,5 @@ While there aren't any specific drills to train making underhand layups, we sugg
 ### Links
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDY3Mzk2MF19
+eyJoaXN0b3J5IjpbLTgyMjI1OTk1XX0=
 -->
