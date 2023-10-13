@@ -12,11 +12,11 @@ Whilst in the air, place your hand that is on the side of the basket under the b
 
 ### When should you do an reverse layup?
 
-The reverse layup easily catches defenders off  the defender whom expects you to make a regular layup. It can also 
+The reverse layup easily catches defenders off guard, they usually expect you to make a regular layup. Using that you can get many foul calls/and ones. 
 
-### Drills to train to make layups
+### Drills to train to reverse layups
 
-While there aren't any specific drills to train making underhand layups, we suggest just making as many attempts as you can. Start near the basket, then start going further away, utilizing more dribbles.
+While there aren't any specific drills to train making underhand layups, we suggest just making as many attempts as you can. Start near the basket, then start going further away, utilizing more dribbles, trying to go as fast as possible and jump
 
 ### Next topics
 
@@ -27,5 +27,5 @@ While there aren't any specific drills to train making underhand layups, we sugg
 ### Links
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzNDk0MDMzXX0=
+eyJoaXN0b3J5IjpbMTUwNDY3Mzk2MF19
 -->
