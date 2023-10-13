@@ -1,5 +1,6 @@
 # Two-sprint
-The two-sprint drill incomponates running, rebounding, passing and shooting into one drill. It 
+
+The two-sprint drill incomponates running, rebounding, passing and shooting into one drill. The two-sprint mainly focuses on working on the player's ability to shoot while being more and more tired.
 
 ### How to do the two-sprint drill
 
@@ -11,13 +12,7 @@ The goal of the drill is to make as many shots as possible in a set amount of ti
 
 ### Variants
 
-- Criss-cross with a dribble
-
-The name speaks for itself, each player is permitted to do a dribble once they have the ball instead of just doing two steps.
-
-- Two on one criss-cross
-
-The two-on-one no-dribble variant is a variant where once a player has made the layup, his duty is to sprint back and play defense versus the two players who didn't do the layup. This variant is often played with no dribbles or only one dribble per person which makes it harder for the two players to score.
+- N-sprint
 
 
 
@@ -26,5 +21,5 @@ The two-on-one no-dribble variant is a variant where once a player has made the 
 ### Links
 - idk
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzODExOTMxLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTAwNzYwNzg2Niw3MzA5OTgxMTZdfQ==
 -->
