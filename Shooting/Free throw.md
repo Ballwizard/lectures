@@ -6,11 +6,11 @@ The free throw consists usually of two shots (sometimes one if a opposing team m
 The free throw is very common appearance in basketball and in NBA around 70%-80% players make their shots.
 
 ## How to do a free throw
-***Preparation:***
+***Preparation***
 The first step is to prepare yourself, stand behind free-throw line, which is 4.5m away from the basket. Position your feet-shoulder apart, with your shooting side foot slightly ahead of your non-shooting foot.
 Also, align your body so that your shooting-side shoulder is pointing towards the basket.
 
-***Grip and ball placement:*** 
+***Grip and ball placement*** 
 Hold the basketball with your shooting hand under the ball and your non-shooting hand on the side of the ball for balance and support.
 Your shooting hand should be under the ball, with your fingers spread comfortably and your shooting hand's wrist bent back slightly.
 
@@ -23,10 +23,10 @@ You must feel comfortable while you shoot the shot, if you don't feel comfortabl
 
 ## Drills to train your free throw shot
 
- - Consistent routine (recommendation: 10min every day)## Heading
+ - Consistent routine (recommendation: 10min every day)
  - Eye on the target
  - Hand placment
- - Knees bent:
+ - Knees bent
  - Analyze your shots with your friends
 
 ## *Next topics*
@@ -34,3 +34,6 @@ You must feel comfortable while you shoot the shot, if you don't feel comfortabl
  - Pull up jump shots
    ***Choose topic***
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTgzNzM4NTU4XX0=
+-->
