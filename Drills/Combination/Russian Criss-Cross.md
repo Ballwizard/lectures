@@ -14,6 +14,9 @@ The first part of the drill is the same as the normal criss-cross. It starts wit
 Once the player with the ball has made the layup, the middle player of the pair that passed the balls grabs the ball and does the same thing.
 
 The drill can be repeated as many times as needed.
+
+### Difficulty
+- Intermediate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTA0MjkxNF19
+eyJoaXN0b3J5IjpbMjExNjM1OTc4NF19
 -->
