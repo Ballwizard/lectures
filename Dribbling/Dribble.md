@@ -18,7 +18,10 @@ While there are a lot of drills to train dribbling, here are some that we recomm
 
 ### Links
 
+### Difficulty
+- Begginer
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTg2NjE4MSw4MzA0NjMzNjBdfQ==
+eyJoaXN0b3J5IjpbOTQ2MjQyODksMTA2OTg2NjE4MSw4MzA0Nj
+MzNjBdfQ==
 -->
