@@ -49,7 +49,9 @@ Many beginners have the problem that their shot is separated into two parts, get
 
 ### Links
 
+### Difficulty
+- Easy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwODg1NzM5LDcwNzAyNzIzMSwtNDU2Nz
-Q5NDAzXX0=
+eyJoaXN0b3J5IjpbODE5NjE4MTgsMjUwODg1NzM5LDcwNzAyNz
+IzMSwtNDU2NzQ5NDAzXX0=
 -->
