@@ -28,6 +28,8 @@ While there aren't any specific drills to train making underhand layups, we sugg
 
 ### Links
 
+### Difficulty
+- Begginer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDY2ODUyNiwtMjE0MDU1NDU0MV19
+eyJoaXN0b3J5IjpbMTg5MjE3Nzc0LC0yMTQwNTU0NTQxXX0=
 -->
