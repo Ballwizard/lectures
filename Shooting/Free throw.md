@@ -34,6 +34,8 @@ You must feel comfortable while you shoot the shot, if you don't feel comfortabl
  - Pull up jump shots
    ***Choose topic***
 
+### Difficulty
+- Begginer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzNzM4NTU4XX0=
+eyJoaXN0b3J5IjpbMTY3MTczOTU0Niw1ODM3Mzg1NThdfQ==
 -->
