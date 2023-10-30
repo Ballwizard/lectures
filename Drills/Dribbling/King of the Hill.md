@@ -17,6 +17,9 @@ This continues up until one person is left in the area and they are crowned as t
 - idk
 ### Links
 - idk
+### Difficulty
+- Easy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTg3MDIxNzUsLTQ1NTkwNjAyMV19
+eyJoaXN0b3J5IjpbNjg5MDY0MzM2LC0xNDk4NzAyMTc1LC00NT
+U5MDYwMjFdfQ==
 -->
