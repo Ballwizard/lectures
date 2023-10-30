@@ -22,6 +22,10 @@ If the ball is being thrown towards a player, try to aim so that the ball also l
 ### Related topics
 
 ### Links
+
+### Difficulty
+- Easy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDY1MzM2OCwtMTY1NzUwNjUwNV19
+eyJoaXN0b3J5IjpbMTU5NjUzNzA0NSwxMDkwNjUzMzY4LC0xNj
+U3NTA2NTA1XX0=
 -->
