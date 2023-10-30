@@ -30,6 +30,8 @@ The two-on-one no-dribble variant is a variant where once a player has made the 
 - Russian Criss-Cross
 ### Links
 - idk
+### Difficulty
+- Easy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5MzQ5MTI4LDE3NDIxMDkxOTddfQ==
+eyJoaXN0b3J5IjpbNjY1ODc0Mjk1LDE3NDIxMDkxOTddfQ==
 -->
