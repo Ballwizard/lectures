@@ -26,7 +26,8 @@ While there aren't any specific drills to train making underhand layups, we sugg
 ### Related topics
 
 ### Links
-
+### Difficulty
+- Easy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyMjkwOTI1XX0=
+eyJoaXN0b3J5IjpbLTIwMjk5MTA1NDYsNzMyMjkwOTI1XX0=
 -->
