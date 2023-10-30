@@ -42,6 +42,8 @@ Some exercises to help develop a feel for making layups are:
 - Putback layup
 ### Links
 - Mikan drill
+### Difficulty
+- Begginer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjM4Njg1NSwtNTIzMjkxNjgzXX0=
+eyJoaXN0b3J5IjpbMTIzODkyMTE0MSwtNTIzMjkxNjgzXX0=
 -->
