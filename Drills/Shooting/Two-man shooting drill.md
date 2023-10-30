@@ -24,6 +24,8 @@ include as many defenders to stop players from passing and shooting the ball
 - Russian Criss-Cross
 ### Links
 - idk
+### Difficulty
+- Intermediate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjY0ODMxMTEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIwNjgyMzIwMTUsNzMwOTk4MTE2XX0=
 -->
