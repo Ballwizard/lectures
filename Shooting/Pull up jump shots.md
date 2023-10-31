@@ -5,6 +5,7 @@ Pull-up jump shot is a basketball move in which a player dribble drives, stops a
  
  
 ****How to do a pull-up jump shot****
+
 The first step is to master ''*Two Motion shot*"* or more known as  "*Traditional shot"*, the shot where you release the ball at the top of your jump. Reason behind mastering traditional shot is that it will allow you to get that needed balance for your shot. For example your shot is probably going to happen in the midrange or off of some type of explosive move where your defender thinks you are going to drive to the basket.
 
 Force absorption - you need to absorb force effectively so you can be more balanced on your shot. This will not only help you on your shooting but in every area of basketball as well
