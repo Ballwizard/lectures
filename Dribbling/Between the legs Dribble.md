@@ -6,7 +6,8 @@ First and foremost, we have to nail the actual movement of the ball before we ca
 
 Now, put the ball on the ground and start rolling the ball through your legs, pushing the ball with each hand as it passes through your legs. Do this for about five minutes while keeping your head up, not looking at the ball.
 
-After you've mastered that, pick up the ball and to the same thing but in air. Holing the ball with one hand, pass it through your legs (w) 
+After you've mastered that, pick up the ball and to the same thing but in air. Holing the ball with one hand, pass it through your legs (whilst still in the air) and grab it with your other hand and raising it to a little above your hip.
+ 
 ### Drills to train dribbling 
 While there are a lot of drills to train dribbling, here are some that we recommend:
 
@@ -23,5 +24,5 @@ While there are a lot of drills to train dribbling, here are some that we recomm
 - Easy
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Njc1NzQ5MSw5OTQ3NDA1MzRdfQ==
+eyJoaXN0b3J5IjpbLTg2MDIzMjc2Myw5OTQ3NDA1MzRdfQ==
 -->
