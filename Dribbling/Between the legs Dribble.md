@@ -19,7 +19,7 @@ While there are a lot of drills to train dribbling, here are some that we recomm
 - Low dribbling and high dribbling
 
 ### Next topics
-- next: Behind the ba
+- next: Behind the back dribble
 - previous: Dribble
 
 ### Related topics
@@ -30,5 +30,5 @@ While there are a lot of drills to train dribbling, here are some that we recomm
 - Easy
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjk5Mzk5Myw5OTQ3NDA1MzRdfQ==
+eyJoaXN0b3J5IjpbLTI2OTU4NDYxMyw5OTQ3NDA1MzRdfQ==
 -->
