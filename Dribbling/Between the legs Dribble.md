@@ -1,6 +1,6 @@
 
 # Between the legs Dribble
-The between the legs dribble is used for a quick change of direction (and speed)
+The between the legs dribble is used for a quick change of direction (and speed) to startle defenders and advance up the court. The move is frequently used in all sl
 ### How to do a dribble?
 The first step needed to do a dribble is to have the ball in your hands. Once you are holding the ball, lower your stance with your back straight and place one hand on top of the ball, and one on the side (it does not matter which hand is on the top because to master the dribble, it needs to be done with ease using both hands). Make sure that the ball is on the side of your body as the hand that is on top, is placed a little above the hip.
 
@@ -21,5 +21,5 @@ While there are a lot of drills to train dribbling, here are some that we recomm
 - Easy
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5NjQ5OTI3XX0=
+eyJoaXN0b3J5IjpbLTIwMDgzOTE1NThdfQ==
 -->
