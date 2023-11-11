@@ -1,6 +1,6 @@
 
 # Dribble
-The dribble is the most essential move in basketball, it has to be used for any major movement on the court. Dribbling is used for controlling the ball, changing its direction, and progressing along the court.
+The dribble is one of the most essential moves in basketball, it's used for major movement on the court. Dribbling is used for controlling the ball, changing its direction, and progressing along the court.
 
 ### How to do a dribble?
 The first step needed to do a dribble is to have the ball in your hands. Once you are holding the ball, lower your stance with your back straight and place one hand on top of the ball, and one on the side (it does not matter which hand is on the top because to master the dribble, it needs to be done with ease using both hands). Make sure that the ball is on the side of your body as the hand that is on top, is placed a little above the hip.
@@ -22,6 +22,6 @@ While there are a lot of drills to train dribbling, here are some that we recomm
 - Begginer
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2MjQyODksMTA2OTg2NjE4MSw4MzA0Nj
-MzNjBdfQ==
+eyJoaXN0b3J5IjpbLTg1NzA3NzcxNyw5NDYyNDI4OSwxMDY5OD
+Y2MTgxLDgzMDQ2MzM2MF19
 -->
