@@ -12,18 +12,15 @@ We're ready to do the actual dribble. With the same scissor stance as we did in 
 
 To actually make the movement useful, we have to know how to do it while moving and dribbling. Start by dribbling forward and then placing your feet in a scissor stance while moving and doing the exact same thing, but now we are not going to bounce to the other side while leaning sligthly forward. After you've gotten the ball to the other side of your legs, dribble and continue moving. When you can do that consistently you've mastered the between the legs dribble.
  
-
-
-
-
- 
-### Drills to train dribbling 
+### Drills to train between the legs dribbling 
 While there are a lot of drills to train dribbling, here are some that we recommend:
 
 - Up-down ball slaps
 - Low dribbling and high dribbling
 
 ### Next topics
+- next: Behind the ba
+- previous: Dribble
 
 ### Related topics
 
@@ -33,5 +30,5 @@ While there are a lot of drills to train dribbling, here are some that we recomm
 - Easy
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTM3OTU1Myw5OTQ3NDA1MzRdfQ==
+eyJoaXN0b3J5IjpbLTYxNjk5Mzk5Myw5OTQ3NDA1MzRdfQ==
 -->
