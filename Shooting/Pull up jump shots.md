@@ -21,7 +21,10 @@ Strength and Conditioning (Here is what I recommend what helped me but take this
 -   Squats 
 -  Lunges
 
-**Difficulty**
+### Difficulty
 
- - Hard/ Very hard
+ - Intermediate
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA1OTY1NTYyNV19
+-->
