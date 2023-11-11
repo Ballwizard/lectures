@@ -2,7 +2,7 @@
 # Between the legs Dribble
 The between the legs dribble is used for a quick change of direction (and speed) to startle defenders and advance up the court. The move is frequently used in all skill ranges of competitive basketball.
 ### How to do a between the legs dribble?
-First and foremost, 
+First and foremost, we have to nail the actual movement of the ball before we can do the dribble. Stand with your body in a so called "scissor stance" with one of your legs behind the other but spread apart.
 ### Drills to train dribbling 
 While there are a lot of drills to train dribbling, here are some that we recommend:
 
@@ -19,5 +19,5 @@ While there are a lot of drills to train dribbling, here are some that we recomm
 - Easy
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0NzQwNTM0XX0=
+eyJoaXN0b3J5IjpbLTE3ODYzMTgzODcsOTk0NzQwNTM0XX0=
 -->
