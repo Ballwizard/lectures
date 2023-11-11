@@ -8,7 +8,10 @@ Now, put the ball on the ground and start rolling the ball through your legs, pu
 
 After you've mastered that, pick up the ball and do the same thing but in air. Holing the ball with one hand, pass it through your legs (whilst still in the air) and grab it with your other hand and raising it to a little above your hip. To make it more harder, after you've passed the ball to the other side, take a step and repeat, now with your other leg forward. Keep your head up as much as you can.
 
-Finally, we're ready to do the actual dribble. With the same scissor stance as we did in the previous parts, instead of grabbing the ball on the other side, bounce it somewhere
+We're ready to do the actual dribble. With the same scissor stance as we did in the previous parts, instead of grabbing the ball on the other side, bounce it near the middle of your legs (it doesn't have to be precisely between) and then catch it with your other hand. Repeat the motion until your comfortable (don't forget to have your head in the air).
+
+To actually make the mom
+ 
 
 
 
@@ -30,5 +33,5 @@ While there are a lot of drills to train dribbling, here are some that we recomm
 - Easy
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzExOTgyMyw5OTQ3NDA1MzRdfQ==
+eyJoaXN0b3J5IjpbLTQ1Mzc1MTQ2NSw5OTQ3NDA1MzRdfQ==
 -->
