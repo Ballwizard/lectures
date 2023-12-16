@@ -13,10 +13,7 @@ It is important that you aren't dribbling the ball side-to-side, as when you act
  
 ### Drills to train behind the legs dribbling
 
-While there are a lot of drills to train dribbling behind the back, here are some that we recommend:
-
-- Up-down ball slaps
-- Low dribbling and high dribbling
+There really doesn't exist a drill to train doing the behind the legs dribble than doing the actual dribble. If you can't consistantly do it and are struggli
 
 ### Next topics
 - next: Rolling Dribble
@@ -30,5 +27,5 @@ While there are a lot of drills to train dribbling behind the back, here are som
 - Easy
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NTk5NjcxNyw5NzgxMTg2ODddfQ==
+eyJoaXN0b3J5IjpbLTE0MDU1NTMsOTc4MTE4Njg3XX0=
 -->
