@@ -7,7 +7,9 @@ Before we try to do any sort of motion, we need to get in the right stance. Stra
 
 To prepare for the actual motion, we aren't going to do any dribbles. With one of your hands holding the ball bring your ball low and bring it to your other hand behind your back. Do it back and forward, with both of your hands as the starting ones. Repeat the motion and do it faster and faster. 
 
-Once you've become comfortable with that, instead of simply bringing the ball to your other side, do a dribble in between. When starting, try bringing your hand more back so you can do the dribble forward (aimed at your other side). It is important that you aren't dribbling the ball side-to-side, as when you actually do this move in-game, 
+Once you've become comfortable with that, instead of simply bringing the ball to your other side, do a dribble in between. When starting, try bringing your hand more back so you can do the dribble forward (aimed at your other side). 
+
+It is important that you aren't dribbling the ball side-to-side, as when you actually do this move in-game, you will have to lose momentum doing the dribble.
  
 ### Drills to train behind the legs dribbling
 While there are a lot of drills to train dribbling, here are some that we recommend:
@@ -16,8 +18,8 @@ While there are a lot of drills to train dribbling, here are some that we recomm
 - Low dribbling and high dribbling
 
 ### Next topics
-- next: Behind the back dribble
-- previous: Dribble
+- next: Rolling Dribble
+- previous: Between the legs Dribble
 
 ### Related topics
 
@@ -27,5 +29,5 @@ While there are a lot of drills to train dribbling, here are some that we recomm
 - Easy
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjk2MDMyNl19
+eyJoaXN0b3J5IjpbLTE2OTU4OTUzMDZdfQ==
 -->
