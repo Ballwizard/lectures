@@ -5,7 +5,9 @@ The behind the back dribble is used for a hard to stop, safe and unpredictable c
 ### How to do a behind the back dribble?
 Before we try to do any sort of motion, we need to get in the right stance. Straighten your back, enter a half-squat stance, and slightly lean back. 
 
-To prepare for the actual motion, we aren't going to do any dribbles. W
+To prepare for the actual motion, we aren't going to do any dribbles. With one of your hands holding the ball bring your ball low and bring it to your other hand behind your back. Do it back and forward, with both of your hands as the starting ones. Repeat the motion and do it faster and faster. 
+
+Once you've become comfortabl 
  
 ### Drills to train between the legs dribbling 
 While there are a lot of drills to train dribbling, here are some that we recommend:
@@ -25,5 +27,5 @@ While there are a lot of drills to train dribbling, here are some that we recomm
 - Easy
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDMxODU3MTNdfQ==
+eyJoaXN0b3J5IjpbMTk0NTE1MzAyMF19
 -->
