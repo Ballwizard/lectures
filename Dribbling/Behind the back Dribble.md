@@ -13,7 +13,7 @@ It is important that you aren't dribbling the ball side-to-side, as when you act
  
 ### Drills to train behind the legs dribbling
 
-There really doesn't exist a drill to train doing the behind the legs dribble than doing the actual dribble. If you can't consistantly do it and are struggli
+There really doesn't exist a drill to train doing the behind the legs dribble than doing the actual dribble. If you can't consistantly do it and are struggling, try slowing down and focusing on the technique.
 
 ### Next topics
 - next: Rolling Dribble
@@ -27,5 +27,5 @@ There really doesn't exist a drill to train doing the behind the legs dribble th
 - Easy
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDU1NTMsOTc4MTE4Njg3XX0=
+eyJoaXN0b3J5IjpbNzEwMzY3MzM1LDk3ODExODY4N119
 -->
