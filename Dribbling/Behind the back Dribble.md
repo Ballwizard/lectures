@@ -3,7 +3,9 @@
 The behind the back dribble is used for a hard to stop, safe and unpredictable change in direction and/or speed. The move is frequently used in all skill ranges of competitive basketball.
 
 ### How to do a behind the back dribble?
-Before we try to do any sort of motion, we need to get in the right stance. Straighten your back and enter a half-squat stance. S
+Before we try to do any sort of motion, we need to get in the right stance. Straighten your back, enter a half-squat stance, and slightly lean back. 
+
+To prepare for the actual motion, we aren't going to do any dribbles. W
  
 ### Drills to train between the legs dribbling 
 While there are a lot of drills to train dribbling, here are some that we recommend:
@@ -23,5 +25,5 @@ While there are a lot of drills to train dribbling, here are some that we recomm
 - Easy
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzU1Mzc4OF19
+eyJoaXN0b3J5IjpbLTE3NDMxODU3MTNdfQ==
 -->
