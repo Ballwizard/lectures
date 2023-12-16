@@ -1,6 +1,6 @@
 
 # Behind the back Dribble
-The behind the back dribble is used for a hard to stop 
+The behind the back dribble is used for a hard to stop, safe and unpredictable change in direction and/or speed. 
 ### How to do a between the legs dribble?
 First and foremost, we have to nail the actual movement of the ball before we can do the dribble. Stand with your body in a so called "scissor stance" with one of your legs behind the other but spread apart.
 
@@ -30,5 +30,5 @@ While there are a lot of drills to train dribbling, here are some that we recomm
 - Easy
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODY4NDM2MjldfQ==
+eyJoaXN0b3J5IjpbLTIwMjEwNjk2NjNdfQ==
 -->
