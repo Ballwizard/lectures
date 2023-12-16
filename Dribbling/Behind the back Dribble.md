@@ -12,7 +12,8 @@ Once you've become comfortable with that, instead of simply bringing the ball to
 It is important that you aren't dribbling the ball side-to-side, as when you actually do this move in-game, you will have to lose momentum doing the dribble. The goal is to wrap your hand behind your back while minimizing your space taken up while doing the dribble. You want to be able to do the dribble with as little area as possible as it will make your dribble faster and less predictable.
  
 ### Drills to train behind the legs dribbling
-While there are a lot of drills to train dribbling, here are some that we recommend:
+
+While there are a lot of drills to train dribbling behind the back, here are some that we recommend:
 
 - Up-down ball slaps
 - Low dribbling and high dribbling
@@ -29,5 +30,5 @@ While there are a lot of drills to train dribbling, here are some that we recomm
 - Easy
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4MTE4Njg3XX0=
+eyJoaXN0b3J5IjpbMTQ2NTk5NjcxNyw5NzgxMTg2ODddfQ==
 -->
