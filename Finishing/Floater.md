@@ -1,49 +1,52 @@
 
-# Floater
-A floater in basketball is a two-point shot attempt made by leaping from below, laying the ball up near the basket, and using one hand to bounce it off the backboard and into the basket or directly into the basket by throwing it in the air.
+# Floaters
 
-The layup is the easiest form of scoring and an open layup shouldn't be missed. It is a finishing move used in every level of competitive basketball.
+A floater in basketball is a finesse shot that involves a player softly releasing the ball into the basket while moving towards it. It is a crafty and effective scoring technique, especially when faced with taller defenders or when driving into the key.
 
-### How to do a layup?
-We are going to group normal layups into two broad categories, those which are done:
+The floater is a valuable skill for guards and small forwards, providing them with an alternative scoring option when a direct layup is challenging. While not as straightforward as a layup, the floater adds versatility to a player's offensive repertoire.
 
- - From a standing position (using no dribbles)
- - From a dribble
+### How to Execute a Floater?
 
-If you have just received the ball and you haven't done any dribbles, then you have only two steps to get to the basket. The first thing you need to decide is which side of the basket are you currently on. 
+Floaters can be executed in various situations, and players often resort to them when a direct path to the basket is hindered. Here are two common scenarios:
 
-If the basket is on your left, then you should probably do a right-handed layup. From your starting position take a step with your right foot, holding the ball close to your body and on the right side of your body. Take another step, this time with your left foot. Then explode off of your left foot and bring your right knee up. Raise the ball above your head and throw the ball off of the backboard, aiming for the upper right corner of the white rectangle located on most backboards. 
+-   **Penetration without Dribbling:** If you find yourself in a position to take a shot without dribbling, ensure you have good control of the ball. As you approach the basket, gauge the distance and height of the defenders. When you are near the free-throw line or slightly closer, softly release the ball with a one-handed shot, aiming for a high, arching trajectory. This allows the ball to float over outstretched defenders and into the basket.
+    
+-   **Penetration with Dribbling:** When dribbling towards the basket, use the dribbles to create separation from defenders. As you near the paint area, execute a quick, controlled dribble followed by a swift, one-handed release of the ball. The key is to release the floater before the shot-blocking defenders can reach the peak of their jump.
+    
 
-If the basket is on your right, then the logical option is to do a left-handed layup. The steps will be the same, just with a different starting foot. This time it will be with the left foot first then comes the right foot from which you jump from and shoot the ball.
+### When to Use a Floater?
 
-On the other hand, if you are in a position where you are considerably away from the basket, dribble the ball, effectively giving you three steps for a layup. 
-The first step needs to be done just after the ball has landed on the floor. If you are on the right side, this time the first foot will be your left foot, then your right, and then finally your left foot from which you explode.
-If you are on the left side, start with your right foot, then your left, and then your right.
+Knowing when to unleash a floater is crucial for maximizing its effectiveness. Floaters are particularly useful when you are in the key, and taller defenders are closing in. The shot's trajectory allows you to avoid shot-blocking attempts, making it an ideal choice when a layup is not feasible.
 
-### When should you do a layup?
-A layup is the most used finishing move in basketball. The layup should be done when you are near the basket and the opposing defenders are not near the basket. If you are sure that you can get to the basket and that you won't get blocked by an opposing defender, the layup is probably the best choice you have. 
+### Exercises to Develop Floater Skills
 
-### Exercises to train in making layups
-Some exercises to help develop a feel for making layups are:
+To hone your floater skills, consider incorporating the following exercises into your training regimen:
 
-- Mikan drill
+-   **Floaters from Different Angles:** Practice floaters from various positions on the court, simulating game scenarios where you might need to shoot over defenders from different angles.
+    
+-   **Defender Simulation:** Have a training partner or coach mimic defensive pressure as you practice floaters. This helps simulate in-game conditions and improves your ability to read and react to defenders.
+    
 
-### Next topics
-- Underhand Layup
-- Overhand Layup
+### Next Topics
 
-### Related topics
-- Underhand Layup
-- Overhand Layup
-- Running Layup
-- Reverse Layup
-- Finger roll Layup
-- Driving Reverse Layup
-- Putback layup
+-   **Teardrop Floater:** Explore the teardrop floater, a variation of the traditional floater that adds an extra layer of finesse to your offensive arsenal.
+    
+-   **Running Floater:** Learn how to execute a floater on the move, allowing you to score while navigating through the defense.
+    
+
+### Related Topics
+- Jump Shot
+   
+- Eurostep
+    
+-  Post Moves
+    
+
 ### Links
-- Mikan drill
+
 ### Difficulty
-- Begginer
+
+-   Intermediate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTc0OTYyMV19
+eyJoaXN0b3J5IjpbLTIxNDM1NDIyNTFdfQ==
 -->
