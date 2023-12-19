@@ -36,17 +36,13 @@ To hone your floater skills, consider incorporating the following exercises into
 
 ### Related Topics
 - Jump Shot
-   
 - Eurostep
-    
--  Post Moves
-    
-
+- Post Moves
 ### Links
 
 ### Difficulty
 
 -   Intermediate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDM1NDIyNTFdfQ==
+eyJoaXN0b3J5IjpbNzE3MTA3MjIzXX0=
 -->
