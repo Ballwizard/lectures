@@ -42,7 +42,7 @@ To hone your floater skills, consider incorporating the following exercises into
 
 ### Difficulty
 
--   Intermediate
+-   Advanced
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3MTA3MjIzXX0=
+eyJoaXN0b3J5IjpbOTcxODcwMDk0XX0=
 -->
