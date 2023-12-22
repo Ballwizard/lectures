@@ -5,9 +5,9 @@ Partner passes is a combination drill which improves passing, dribbling, finishi
 
 ### How to do the Partner passes drill
 
-Partner passes needs to be done with at least 2 people. One person stands on 
+Partner passes needs to be done with at least 2 people. Both players stand on opposite sides of the key. Once the whistle is blown, they both run forward while passing the ball up the court. When someon 
 ### Difficulty
 - Easy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzM3MjFdfQ==
+eyJoaXN0b3J5IjpbNDUyMTEyODM3XX0=
 -->
