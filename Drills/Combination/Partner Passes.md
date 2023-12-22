@@ -1,8 +1,7 @@
 
 # Partner Passes
 
-The Russian criss-cross is a variant of the criss-cross drill that not only improves passing and team coordination but adds elements of shooting and finishing into the drill.
-
+Partner passes is a combination drill which improves passing, dribbling, finishing, multitasking and court-awareness. It is a simple drill that can be done in any skill level of basketball and is a good way to 
 ### How to do the Russian criss-cross drill
 
 The Russian criss-cross drill needs to be done with at least three pairs of three players. Two pairs are standing on one side of the baseline, one is standing on the opposite baseline. The two pairs have three balls, one for the first pair that starts the drill and two for the pair behind (the wing players have them). The pair on the other side of the court also has two balls.
@@ -18,5 +17,5 @@ The drill can be repeated as many times as needed.
 ### Difficulty
 - Easy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3NjI2NjM4XX0=
+eyJoaXN0b3J5IjpbLTYxNjMxMDI1OV19
 -->
