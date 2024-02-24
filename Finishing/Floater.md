@@ -32,17 +32,6 @@ To hone your floater skills, consider incorporating the following exercises into
 -   **Teardrop Floater:** Explore the teardrop floater, a variation of the traditional floater that adds an extra layer of finesse to your offensive arsenal.
     
 -   **Running Floater:** Learn how to execute a floater on the move, allowing you to score while navigating through the defense.
-    
-
-### Related Topics
-- Jump Shot
-- Eurostep
-- Post Moves
-### Links
-
-### Difficulty
-
--   Advanced
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxODcwMDk0XX0=
+eyJoaXN0b3J5IjpbMTk5NzUyODM2NSw5NzE4NzAwOTRdfQ==
 -->
